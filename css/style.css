@@ -3,6 +3,15 @@ body {
   text-align: center;
   margin: 20px;
 }
+
 h1 {
+  color: red;
+}
+
+h2 {
+  color: gray;
+}
+
+strong {
   color: red;
 }
